@@ -1,1 +1,1 @@
-# flipcart_prize_tracker
+# flipkart_product_prize_tracker
